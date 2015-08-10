@@ -1,0 +1,113 @@
+/**{
+	margin: 0px 0px 0px 10px;
+}*/
+#categories{
+	outline: 1px solid black;
+	color: black;
+ 	display: inline-block;
+	vertical-align: top;
+	margin: 5px 0px 5px 0px;
+}
+#categories p{
+	margin: 5px 0px 5px 30px;
+}
+#categories h4{
+	margin: 0px 0px 5px 20px;
+}
+input{
+	margin: 0px 10px;
+}
+a:-webkit-any-link{
+	text-decoration: none;
+	color: black;
+}
+#header{
+	background-color: black;
+	height:75px;
+	padding: 10px;
+}
+#header a{
+	color: white;
+	padding: 10px;
+	display: inline-block;
+}
+#header h5{
+	float: right;
+	color: white;
+	padding: 10px;
+	display: inline-block;
+}
+.images{
+	display: inline-block;
+	padding: 5px 0px 5px 0px;
+}
+.images p{
+	margin: 0px;
+}
+/**{
+	outline: 1px solid red;
+}*/
+#image{
+	display: inline-block;
+	vertical-align: top;
+}
+h1{
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+}
+#qtyprice{
+	display: block;
+}
+#qtyprice select{
+	width: 100px;
+	height: 30px;
+	font-size: 16px;
+}
+button{
+	width: 50px;
+	height: 30px;
+	border-radius: 30px;
+	display: inline-block;
+}
+select{
+	display: inline-block;
+}
+a{	
+	padding: 0px;
+	margin: 0px;
+	
+	display: inline-block;
+	vertical-align: top;
+	outline: 1px solid black;
+}
+#thumbnail img{
+	width: 25%;
+	height: 10%;
+	padding: 30px 30px 50px 30px;
+	display: inline-block;
+	vertical-align: top;
+}
+p{
+	display: inline-block;
+	vertical-align: top;
+	padding: px;
+	margin: 0px;
+	color: black;
+}
+#header{
+	background-color: black;
+	height:75px;
+	padding: 10px;
+}
+a{
+	color: white;
+	padding: 5px;
+	display: inline-block;
+}
+h5{
+	float: right;
+	color: white;
+	padding: 10px;
+	display: inline-block;
+}

@@ -1,0 +1,91 @@
+/**{
+	margin: 0px 0px 0px 10px;
+}*/
+#header{
+	background-color: black;
+	height: 75px;
+	padding: 10px;
+}
+#header a{
+	color: white;
+	margin: 0px;
+	display: inline-block;
+}
+#header h5{
+	color: white;
+	margin-left: 550px;
+	display: inline-block;
+}
+#categories{
+	outline: 1px solid black;
+	color: black;
+	margin: 5px 0px 5px 0px;
+	width: 100%;
+}
+#categories p{
+	margin: 10px 0px 5px 30px;
+	display: inline-block;
+	width: 10%;
+}
+#categories h4{
+	margin: 0px 5px;
+
+}
+#search{
+	display: inline-block;
+	margin: 5px 5px 5px 5px;
+}
+a:-webkit-any-link{
+	text-decoration: none;
+	color: black;
+}	
+.images{
+	display: inline-block;
+	vertical-align: bottom;
+	padding: 5px 10px;
+}
+.images p{
+	margin: 0px;
+}
+h1{
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+}
+#qtyprice{
+	display: block;
+}
+#qtyprice select{
+	width: 100px;
+	height: 30px;
+	font-size: 16px;
+}
+button{
+	width: 50px;
+	height: 30px;
+	border-radius: 30px;
+	display: inline-block;
+}
+select{
+	display: inline-block;
+}
+a{	
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	vertical-align: top;
+}
+#thumbnail img{
+	width: 25%;
+	height: 10%;
+	padding: 30px 30px 50px 30px;
+	display: inline-block;
+	vertical-align: top;
+}
+p{
+	display: inline-block;
+	vertical-align: top;
+	padding: px;
+	margin: 0px;
+	color: black;
+}
